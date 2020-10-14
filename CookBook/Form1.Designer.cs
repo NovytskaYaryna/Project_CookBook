@@ -86,7 +86,7 @@
             this.minBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.bunifuTransition1.SetDecoration(this.minBtn, BunifuAnimatorNS.DecorationType.None);
             this.bunifuTransition2.SetDecoration(this.minBtn, BunifuAnimatorNS.DecorationType.None);
-            this.minBtn.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.minBtn.Font = new System.Drawing.Font("Roboto", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.minBtn.ForeColor = System.Drawing.SystemColors.Window;
             this.minBtn.Location = new System.Drawing.Point(1167, 7);
             this.minBtn.Name = "minBtn";
@@ -101,7 +101,7 @@
             this.exitBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.bunifuTransition1.SetDecoration(this.exitBtn, BunifuAnimatorNS.DecorationType.None);
             this.bunifuTransition2.SetDecoration(this.exitBtn, BunifuAnimatorNS.DecorationType.None);
-            this.exitBtn.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.exitBtn.Font = new System.Drawing.Font("Roboto", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.exitBtn.ForeColor = System.Drawing.SystemColors.Window;
             this.exitBtn.Location = new System.Drawing.Point(1188, 9);
             this.exitBtn.Name = "exitBtn";
@@ -133,7 +133,7 @@
             this.extBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.bunifuTransition2.SetDecoration(this.extBtn, BunifuAnimatorNS.DecorationType.None);
             this.bunifuTransition1.SetDecoration(this.extBtn, BunifuAnimatorNS.DecorationType.None);
-            this.extBtn.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.extBtn.Font = new System.Drawing.Font("Roboto", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.extBtn.ForeColor = System.Drawing.Color.SeaGreen;
             this.extBtn.IdleBorderThickness = 1;
             this.extBtn.IdleCornerRadius = 2;
@@ -161,7 +161,7 @@
             this.usersBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.bunifuTransition2.SetDecoration(this.usersBtn, BunifuAnimatorNS.DecorationType.None);
             this.bunifuTransition1.SetDecoration(this.usersBtn, BunifuAnimatorNS.DecorationType.None);
-            this.usersBtn.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.usersBtn.Font = new System.Drawing.Font("Roboto", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.usersBtn.ForeColor = System.Drawing.Color.SeaGreen;
             this.usersBtn.IdleBorderThickness = 1;
             this.usersBtn.IdleCornerRadius = 2;
@@ -189,7 +189,7 @@
             this.recipesBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.bunifuTransition2.SetDecoration(this.recipesBtn, BunifuAnimatorNS.DecorationType.None);
             this.bunifuTransition1.SetDecoration(this.recipesBtn, BunifuAnimatorNS.DecorationType.None);
-            this.recipesBtn.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.recipesBtn.Font = new System.Drawing.Font("Roboto", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.recipesBtn.ForeColor = System.Drawing.Color.SeaGreen;
             this.recipesBtn.IdleBorderThickness = 1;
             this.recipesBtn.IdleCornerRadius = 2;
