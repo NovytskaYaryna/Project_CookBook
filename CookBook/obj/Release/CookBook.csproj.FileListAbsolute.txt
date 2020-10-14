@@ -1,0 +1,72 @@
+C:\Users\Пасічник\source\repos\CookBook\CookBook\bin\Release\CookBook.exe.config
+C:\Users\Пасічник\source\repos\CookBook\CookBook\bin\Release\CookBook.exe
+C:\Users\Пасічник\source\repos\CookBook\CookBook\bin\Release\CookBook.pdb
+C:\Users\Пасічник\source\repos\CookBook\CookBook\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Пасічник\source\repos\CookBook\CookBook\bin\Release\EntityFramework.dll
+C:\Users\Пасічник\source\repos\CookBook\CookBook\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Пасічник\source\repos\CookBook\CookBook\bin\Release\EntityFramework.xml
+C:\Users\Пасічник\source\repos\CookBook\CookBook\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Пасічник\source\repos\CookBook\CookBook\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\Пасічник\source\repos\CookBook\CookBook\obj\Release\CookBook.CategoryForm.resources
+C:\Users\Пасічник\source\repos\CookBook\CookBook\obj\Release\CookBook.Form1.resources
+C:\Users\Пасічник\source\repos\CookBook\CookBook\obj\Release\CookBook.Login.Login.resources
+C:\Users\Пасічник\source\repos\CookBook\CookBook\obj\Release\CookBook.Login.Reg.resources
+C:\Users\Пасічник\source\repos\CookBook\CookBook\obj\Release\CookBook.Properties.Resources.resources
+C:\Users\Пасічник\source\repos\CookBook\CookBook\obj\Release\CookBook.UI.UIRecipes.resources
+C:\Users\Пасічник\source\repos\CookBook\CookBook\obj\Release\CookBook.UI.UIUsers.resources
+C:\Users\Пасічник\source\repos\CookBook\CookBook\obj\Release\CookBook.csproj.GenerateResource.cache
+C:\Users\Пасічник\source\repos\CookBook\CookBook\obj\Release\CookBook.csproj.CoreCompileInputs.cache
+C:\Users\Пасічник\source\repos\CookBook\CookBook\obj\Release\CookBook.csproj.CopyComplete
+C:\Users\Пасічник\source\repos\CookBook\CookBook\obj\Release\CookBook.exe
+C:\Users\Пасічник\source\repos\CookBook\CookBook\obj\Release\CookBook.pdb
+C:\Users\Пасічник\source\repos\CookBook\CookBook\obj\Release\CookBook.csprojAssemblyReference.cache
+C:\Users\Пасічник\source\repos\CookBook\CookBook\obj\Release\Interop.Office.dll
+C:\Users\Пасічник\source\repos\CookBook\CookBook\obj\Release\CookBook.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\CookBook.exe.config
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\CookBook.exe
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\CookBook.pdb
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\EntityFramework.dll
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\EntityFramework.xml
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\Interop.Office.dll
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.CategoryForm.resources
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.Form1.resources
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.Login.Login.resources
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.Login.Reg.resources
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.Properties.Resources.resources
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.UI.UIRecipes.resources
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.UI.UIUsers.resources
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.csproj.CopyComplete
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.exe
+C:\Users\HP\Desktop\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.pdb
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\CookBook.exe.config
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\CookBook.exe
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\CookBook.pdb
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\Bunifu_UI_v1.5.3.dll
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\EntityFramework.dll
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\EntityFramework.SqlServer.dll
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\EntityFramework.xml
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\EntityFramework.SqlServer.xml
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\bin\Release\ru\EntityFramework.resources.dll
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.csprojAssemblyReference.cache
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.csproj.ResolveComReference.cache
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.CategoryForm.resources
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.Form1.resources
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.Login.Login.resources
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.Login.Reg.resources
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.Properties.Resources.resources
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.UI.UIRecipes.resources
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.UI.UIUsers.resources
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.csproj.GenerateResource.cache
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.csproj.CoreCompileInputs.cache
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.csproj.CopyComplete
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.exe
+D:\Універ\універ\3 курс\3 kurs\Курсач\CookBook (2)\CookBook\CookBook\obj\Release\CookBook.pdb
